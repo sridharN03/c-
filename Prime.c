@@ -12,7 +12,7 @@ int main()
    }
    if(p==2)
    {
-      printf("Yes",n);
+      printf("yes",n);
    }
    else
    {
